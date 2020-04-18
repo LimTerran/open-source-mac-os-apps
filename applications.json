@@ -20,6 +20,25 @@
             ]
         },
         {
+           "short_description": "Ultra TabSaver is an open-source Tab Manager for Safari",
+           "categories": [
+               "extensions",
+               "productivity",
+               "utilities"
+           ],
+           "repo_url": "https://github.com/Swift-open-source/UltraTabSaver",
+           "title": "Ultra TabSaver",
+           "icon_url": "https://raw.githubusercontent.com/morsamatias/UltraTabSaver/master/Ultra%20TabSaver/Assets.xcassets/AppIcon.appiconset/unnamed-1.png",
+           "screenshots": [
+              "https://raw.githubusercontent.com/morsamatias/UltraTabSaver/master/Screenshoot-1.png",
+              "https://raw.githubusercontent.com/morsamatias/UltraTabSaver/master/Screenshoot-2.png"
+           ],
+           "official_site": "",
+           "languages": [
+               "swift"
+           ]
+       },
+        {
             "short_description": "Music Bar is macOS application that places music controls right in your menu bar.",
             "categories": [
                 "audio",
@@ -2104,6 +2123,22 @@
             ]
         },
         {
+          "short_description": "Template based highly customizable macOS app to generate classes from JSON string, supports many languages. ",
+          "categories": [
+            "json-parsing"
+          ],
+          "repo_url": "https://github.com/chanonly123/Json-Model-Generator",
+          "title": "JSON to Model class",
+          "icon_url": "",
+          "screenshots": [
+            "https://raw.githubusercontent.com/chanonly123/Json-Model-Generator/master/demo1.png"
+          ],
+          "official_site": "",
+          "languages": [
+            "swift"
+          ]
+        },
+        {
             "short_description": "Simple macOS app for uploading files to Amazon Web Services. ",
             "categories": [
                 "web-development"
@@ -2204,7 +2239,7 @@
             "categories": [
                 "web-development"
             ],
-            "repo_url": "https://github.com/DanSanche/KubeMonitor",
+            "repo_url": "https://github.com/Daniel-Sanche/KubeMonitor",
             "title": "KubeMonitor",
             "icon_url": "",
             "screenshots": [
@@ -2966,7 +3001,6 @@
             "icon_url": "",
             "screenshots": [
                 "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/gifcapture.png",
-                "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g1.gif",
                 "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/Icon.png",
                 "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g2.gif",
                 "https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g3.gif"
@@ -4882,7 +4916,8 @@
             "title": "Timer",
             "icon_url": "",
             "screenshots": [
-                "https://raw.githubusercontent.com/michaelvillar/timer-app/master/screenshots/timer.png"
+                "https://raw.githubusercontent.com/michaelvillar/timer-app/master/screenshots/light-mode.png",
+                "https://raw.githubusercontent.com/michaelvillar/timer-app/master/screenshots/dark-mode.png"
             ],
             "official_site": "",
             "languages": [
@@ -7136,8 +7171,8 @@
             "title": "OpenInTerminal",
             "icon_url": "",
             "screenshots": [
-                "hhttps://user-images.githubusercontent.com/11001224/78589385-b797b880-7872-11ea-9062-c11a49461598.gif",
-                "hhttps://user-images.githubusercontent.com/11001224/78589369-b36b9b00-7872-11ea-8a9e-e3f23e7ce80e.gif",
+                "https://user-images.githubusercontent.com/11001224/78589385-b797b880-7872-11ea-9062-c11a49461598.gif",
+                "https://user-images.githubusercontent.com/11001224/78589369-b36b9b00-7872-11ea-8a9e-e3f23e7ce80e.gif"
             ],
             "official_site": "",
             "languages": [
@@ -7499,13 +7534,8 @@
             ],
             "repo_url": "https://github.com/cryptomator/cryptomator",
             "title": "Cryptomator",
-            "icon_url": "https://cryptomator.org/resources/presskit/cryptomator-logo.png",
-            "screenshots": [
-                "https://cryptomator.org/resources/presskit/en/mac-screenshot-1.png",
-                "https://cryptomator.org/resources/presskit/en/mac-screenshot-2.png",
-                "https://cryptomator.org/resources/presskit/en/mac-screenshot-3.png",
-                "https://cryptomator.org/resources/presskit/en/mac-screenshot-4.png"
-            ],
+            "icon_url": "https://raw.githubusercontent.com/cryptomator/cryptomator/develop/cryptomator.png",
+            "screenshots": [],
             "official_site": "https://cryptomator.org/",
             "languages": [
                 "java"
@@ -7686,6 +7716,24 @@
             ]
         },
         {
+            "short_description": "Manage grayscale mode from menu bar.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/rkbhochalya/grayscale-mode",
+            "title": "Grayscale Mode",
+            "icon_url": "https://user-images.githubusercontent.com/12229032/78544116-48d94180-7817-11ea-9612-7a596f897e02.png",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/12229032/78544215-6b6b5a80-7817-11ea-8b80-12bbbfc16053.jpg",
+                "https://user-images.githubusercontent.com/12229032/78544289-84740b80-7817-11ea-9092-e76fcb027702.jpg"
+            ],
+            "official_site": "https://grayscalemode.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
             "short_description": "An elegant Cross-platform MQTT 5.0 desktop client.",
             "categories": [
                 "other-development",
@@ -7702,6 +7750,78 @@
             "languages": [
                 "javascript",
                 "type_script"
+            ]
+        },
+        {
+            "short_description": "Replacement for MacOS' volume, brightness and keyboard backlight HUDs.",
+            "categories": [
+                "menubar",
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/AlexPerathoner/SlimHUD",
+            "title": "SlimHUD - Cyanocitta",
+            "icon_url": "https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/IconFull.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/Animations/animations.gif",
+                "https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/settingsWindow.png"
+            ],
+            "official_site": "",
+            "languages": [
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Coronavirus tracker app for iOS & macOS with maps & charts.",
+            "categories": [
+                "ios--macos"
+            ],
+            "repo_url": "https://github.com/MhdHejazi/CoronaTracker",
+            "title": "Corona Tracker",
+            "icon_url": "https://coronatracker.samabox.com/images/icon.svg",
+            "screenshots": [
+                "https://user-images.githubusercontent.com/121827/77247007-03751b80-6c3e-11ea-91fc-b3d535fda6a2.png",
+                "https://user-images.githubusercontent.com/121827/77246699-e25efb80-6c3a-11ea-8a49-30bd87ff33c0.png"
+            ],
+            "official_site": "https://coronatracker.samabox.com/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "An open source, free and hackable screenshot tracker. Re-watch what you've been working on!",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/instance01/mac-screenshot-tracker",
+            "title": "Mac Screenshot Tracker",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/instance01/mac-screenshot-tracker/master/.github/screen1.png",
+                "https://raw.githubusercontent.com/instance01/mac-screenshot-tracker/master/.github/screen2.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "python"
+            ]
+        },
+        {
+            "short_description": "Musical Instrument Tuner",
+            "categories": [
+                "audio"
+            ],
+            "repo_url": "https://github.com/billthefarmer/ctuner",
+            "title": "Tuner",
+            "icon_url": "https://raw.githubusercontent.com/billthefarmer/ctuner/master/swift/Tuner.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/billthefarmer/billthefarmer.github.io/master/images/ctuner/Tuner-swift.png",
+                "https://raw.githubusercontent.com/billthefarmer/billthefarmer.github.io/master/images/ctuner/Tuner-preferences.png",
+                "https://raw.githubusercontent.com/billthefarmer/billthefarmer.github.io/master/images/ctuner/Note-filter.png"
+            ],
+            "official_site": "https://billthefarmer.github.io/ctuner/ ",
+            "languages": [
+                "swift"
             ]
         }
     ]
